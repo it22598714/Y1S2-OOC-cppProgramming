@@ -1,0 +1,4 @@
+﻿  Lab03_ex2.cpp
+F:\Uni\sem2\OOC\Exercises\Practicals\lab03\Lab03_ex2\Lab03_ex2\Lab03_ex2.cpp(41,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Uni\sem2\OOC\Exercises\Practicals\lab03\Lab03_ex2\Lab03_ex2\Lab03_ex2.cpp(42,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Lab03_ex2.vcxproj -> F:\Uni\sem2\OOC\Exercises\Practicals\lab03\Lab03_ex2\x64\Debug\Lab03_ex2.exe
