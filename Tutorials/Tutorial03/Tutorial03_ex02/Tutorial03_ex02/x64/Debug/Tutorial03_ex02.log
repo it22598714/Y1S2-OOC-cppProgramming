@@ -1,0 +1,3 @@
+﻿  Tutorial03_ex02.cpp
+F:\Uni\sem2\OOC\Exercises\Tutorials\Tutorial03\Tutorial03_ex02\Tutorial03_ex02\Tutorial03_ex02.cpp(7,19): warning C4101: 'totalSurface': unreferenced local variable
+  Tutorial03_ex02.vcxproj -> F:\Uni\sem2\OOC\Exercises\Tutorials\Tutorial03\Tutorial03_ex02\x64\Debug\Tutorial03_ex02.exe
